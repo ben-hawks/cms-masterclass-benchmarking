@@ -6,7 +6,7 @@ An interactive, browser-based talk on scientific AI/ML benchmarking: what makes 
 
 - **Live talk:** <https://ben-hawks.github.io/cms-masterclass-benchmarking/>
 - `index.html` — the whole talk, one self-contained file (figures embedded). Open it in any modern browser; no build step.
-- `masterclass-benchmarking.pdf` — static backup: every scene at its final step, 27 main-flow pages then 9 backups.
+- `masterclass-benchmarking.pdf` — static backup with searchable text and clickable links: every scene at its final step, 27 main-flow pages then 9 backups.
 - Keys: → / space / click to advance, ← back, **O** overview (incl. backups), **H** speaker notes + timer, **D** theme, **F** fullscreen, **?** help. Deep links: `#ratings`, `#def.3`.
 - Main flow: 27 scenes, ~27 min of budget. Backups: three kinds of reader, prior work, ontology overview, computing motifs, workload clustering, benchmark card, repository layout, glossary, credits.
 - Every technical term is defined in a "terms" footer on the slide where it first appears; the full list is in the glossary backup.
